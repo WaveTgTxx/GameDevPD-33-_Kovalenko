@@ -8,17 +8,17 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 'Ground '
+  - 
   - Water
   - UI
+  - 
+  - 
+  - Ground
   - Player
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Items
+  - Enemies
+  - PlayerProjectiles
+  - LvLEnder
   - 
   - 
   - 
@@ -38,15 +38,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: BackGround
-    uniqueID: 1807991857
+  - name: Background
+    uniqueID: 297716563
     locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 1359870119
+  - name: Items
+    uniqueID: 1868543265
+    locked: 0
+  - name: Traps
+    uniqueID: 319061203
     locked: 0
   - name: Ground
-    uniqueID: 2268574273
+    uniqueID: 1385143599
+    locked: 0
+  - name: Player
+    uniqueID: 4268827055
+    locked: 0
+  - name: Enemies
+    uniqueID: 1101837631
+    locked: 0
+  - name: Plants
+    uniqueID: 1542771235
     locked: 0
